@@ -10,7 +10,6 @@ body {
 nav ul {
     padding: 0px;
     list-style: none;
-    font-weight: bold;
 }
 nav ul li {
     display: inline;
